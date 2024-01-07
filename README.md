@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Final year undergraduate student in Electrical Engineering at IIT Bombay
 ------------------------------------------------------------------------
 
-My academic and research interests lie in the fields of AI and intelligent agents, stochastic control, online learning, and game theory. Since the summer of 2023, I have been working with Professor Sharayu Moharir on research related to inference using hedge methods. Additionally, I had the opportunity to be a MITACS Globalink Research Intern at the University of Calgary under the supervision of Hatem Abou Zeid. During this internship, I delved into the domain of transfer learning using IsaacGym, gaining valuable experience in this area. Furthermore, I am currently collaborating with Professor Shivaram Kalyanakrishnan to enhance and optimize his NeurIPS Reconnaissance Blind Chess Agent bot, with the aim of preparing it for future competitions. I also had the privilege of working alongside Professor Swaprava Nath on the Envy-Free Cake Cutting problem as part of an advanced game theory course, an experience that I found immensely enjoyable and intellectually stimulating. Beyond my academic pursuits, I had the privilege of serving as a Teaching Assistant for a national-level NPTEL Digital Signal Processing course, where I worked alongside Professor Vikram Gadre to ensure the smooth delivery of the course. In my leisure time, I am an avid sports enthusiast and follow a wide range of sports, including cricket, chess, Formula 1, table tennis, and basketball. I also enjoy actively participating in some of these sports during my spare time.
+My academic and research interests lie in the fields of AI and intelligent agents, stochastic control, online learning, and game theory. 
+
+I am currently collaborating with Professor Shivaram Kalyanakrishnan to enhance and optimize his NeurIPS Reconnaissance Blind Chess Agent bot, with the aim of preparing it for future competitions. 
+
+Beyond my academic pursuits, I also enjoy actively participating in some of these sports during my spare time.
 
 *   🖥️  See my portfolio at [Puranjay Datta](http://puranjay14.github.io/puranjaydatta/)
 *   ✉️  You can contact me at [puranjaydatta@gmail.com](mailto:puranjaydatta@gmail.com)
